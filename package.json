@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "axios": "^1.6.8",
+    "i": "^0.3.7",
+    "npm": "^10.5.2",
+    "puppeteer": "^22.6.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-user-preferences": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.10.5"
+  }
+}
